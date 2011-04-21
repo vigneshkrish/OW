@@ -1,0 +1,14 @@
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\ApplicationIcon.png
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\Background.png
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\Images\startstop.png
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\AccelerometerSample.dll
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\AccelerometerSample.pdb
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\AppManifest.xaml
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\Bin\Debug\AccelerometerSample.xap
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\ResolveAssemblyReference.cache
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\App.g.i.cs
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\MainPage.g.i.cs
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\AccelerometerSample.g.resources
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\AccelerometerSample.dll
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\AccelerometerSample.pdb
+E:\Vignesh\Sample App\AccelerometerSample\AccelerometerSample\obj\Debug\XapCacheFile.xml
